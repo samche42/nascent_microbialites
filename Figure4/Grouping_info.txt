@@ -1,0 +1,81 @@
+Sample	Time	Location
+N1	2019	West
+N2	2019	West
+N3	2019	West
+N4	2019	West
+N5	2019	West
+N6	2019	West
+N7	2019	West
+N8	2019	West
+N9	2019	West
+N10	2019	West
+N11	2019	South
+N12	2019	South
+N13	2019	South
+N14	2019	South
+N15	2019	South
+N16	2019	South
+N17	2019	South
+N18	2019	South
+N19	2019	South
+N20	2019	South
+N21	2019	East
+N22	2019	East
+N23	2019	East
+N24	2019	East
+N25	2019	East
+N26	2019	East
+N27	2019	East
+N28	2019	East
+N29	2019	East
+N30	2019	East
+N31	2019	East
+W1	2019	Water
+W2	2019	Water
+W3	2019	Water
+W4	2019	Water
+N_1	2021 Apr 	West
+N_2	2021 Apr 	West
+N_3	2021 Apr 	West
+N_4	2021 Apr 	West
+N_5	2021 Apr 	West
+N_6	2021 Apr 	West
+N_7	2021 Apr 	West
+N_8	2021 Apr 	West
+N_9	2021 Apr 	West
+N_10	2021 Apr 	South
+N_11	2021 Apr 	South
+N_12	2021 Apr 	South
+N_13	2021 Apr 	South
+N_14	2021 Apr 	South
+N_15	2021 Apr 	South
+N_16	2021 Apr 	South
+N_17	2021 Apr 	South
+N_18	2021 Apr 	South
+N_19	2021 Apr 	South
+N_20	2021 Apr 	South
+N_21	2021 Apr 	East
+N_22	2021 Apr 	East
+N_23	2021 Apr 	East
+N_24	2021 Apr 	East
+N_25	2021 Apr 	East
+N_26	2021 Apr 	East
+21W1	2021 Apr 	Water
+21W2	2021 Apr 	Water
+21W3	2021 Apr 	Water
+SACa_21_1	2021 Oct 	West
+SACa_21_2	2021 Oct 	West
+SACa_21_3	2021 Oct 	West
+SACa_21_4	2021 Oct 	West
+SACa_21_5	2021 Oct 	West
+SACa_21_6	2021 Oct 	West
+SACa_21_11	2021 Oct 	East
+SACa_21_12	2021 Oct 	East
+SACa_21_13	2021 Oct 	East
+SACa_21_14	2021 Oct 	East
+SACa_21_15	2021 Oct 	East
+SACa_21_16	2021 Oct 	East
+SACa_21_W1	2021 Oct 	Water
+SACa_21_W2	2021 Oct 	Water
+SACa_21_W3	2021 Oct 	Water
+SACa_21_W4	2021 Oct 	Water
